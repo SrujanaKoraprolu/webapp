@@ -1,0 +1,3 @@
+com\example\dao\BookDAO.class
+com\example\servlet\BookServlet.class
+com\example\model\Book.class
